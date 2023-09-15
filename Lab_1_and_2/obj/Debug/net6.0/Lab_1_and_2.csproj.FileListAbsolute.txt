@@ -1,0 +1,15 @@
+C:\Users\Veer\Desktop\Lab_1_and_2\bin\Debug\net6.0\Lab_1_and_2.exe
+C:\Users\Veer\Desktop\Lab_1_and_2\bin\Debug\net6.0\Lab_1_and_2.deps.json
+C:\Users\Veer\Desktop\Lab_1_and_2\bin\Debug\net6.0\Lab_1_and_2.runtimeconfig.json
+C:\Users\Veer\Desktop\Lab_1_and_2\bin\Debug\net6.0\Lab_1_and_2.dll
+C:\Users\Veer\Desktop\Lab_1_and_2\bin\Debug\net6.0\Lab_1_and_2.pdb
+C:\Users\Veer\Desktop\Lab_1_and_2\obj\Debug\net6.0\Lab_1_and_2.csproj.AssemblyReference.cache
+C:\Users\Veer\Desktop\Lab_1_and_2\obj\Debug\net6.0\Lab_1_and_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veer\Desktop\Lab_1_and_2\obj\Debug\net6.0\Lab_1_and_2.AssemblyInfoInputs.cache
+C:\Users\Veer\Desktop\Lab_1_and_2\obj\Debug\net6.0\Lab_1_and_2.AssemblyInfo.cs
+C:\Users\Veer\Desktop\Lab_1_and_2\obj\Debug\net6.0\Lab_1_and_2.csproj.CoreCompileInputs.cache
+C:\Users\Veer\Desktop\Lab_1_and_2\obj\Debug\net6.0\Lab_1_and_2.dll
+C:\Users\Veer\Desktop\Lab_1_and_2\obj\Debug\net6.0\refint\Lab_1_and_2.dll
+C:\Users\Veer\Desktop\Lab_1_and_2\obj\Debug\net6.0\Lab_1_and_2.pdb
+C:\Users\Veer\Desktop\Lab_1_and_2\obj\Debug\net6.0\Lab_1_and_2.genruntimeconfig.cache
+C:\Users\Veer\Desktop\Lab_1_and_2\obj\Debug\net6.0\ref\Lab_1_and_2.dll
