@@ -1,0 +1,15 @@
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\obj\Debug\net6.0\Pattrens.csproj.AssemblyReference.cache
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\obj\Debug\net6.0\Pattrens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\obj\Debug\net6.0\Pattrens.AssemblyInfoInputs.cache
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\obj\Debug\net6.0\Pattrens.AssemblyInfo.cs
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\obj\Debug\net6.0\Pattrens.csproj.CoreCompileInputs.cache
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\bin\Debug\net6.0\Pattrens.exe
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\bin\Debug\net6.0\Pattrens.deps.json
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\bin\Debug\net6.0\Pattrens.runtimeconfig.json
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\bin\Debug\net6.0\Pattrens.dll
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\bin\Debug\net6.0\Pattrens.pdb
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\obj\Debug\net6.0\Pattrens.dll
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\obj\Debug\net6.0\refint\Pattrens.dll
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\obj\Debug\net6.0\Pattrens.pdb
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\obj\Debug\net6.0\Pattrens.genruntimeconfig.cache
+C:\Users\Veer\Desktop\Design_Pattren\Pattrens\obj\Debug\net6.0\ref\Pattrens.dll
